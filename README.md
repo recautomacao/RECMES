@@ -51,8 +51,9 @@ Acesse o RECMES, e veja como é fácil visualizar os dados de sua empresa, e com
 
 [RECMES](https://recautomacao.com.br/recmes.html)
 
-Usuário: rec
-Senha: rec
+
+    Usuário: rec
+    Senha: rec
 
 ---
 
