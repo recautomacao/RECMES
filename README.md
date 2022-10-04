@@ -1,6 +1,6 @@
-# RECMES
-
 ![RECMES](./img/recBranco.png)
+
+# RECMES
 
 ---
 ## Introdução
@@ -50,6 +50,19 @@ Acesse o RECMES, e veja como é fácil visualizar os dados de sua empresa, e com
 
 ---
 
+## O que o RECMES agrega de valor para a sua empresa?
+
+O RECMES vai estar presente em todos os processos da sua empresa. Ele vai estar presente na produção, na manutenção, na logística, na qualidade, na segurança, e em todos os outros processos da sua empresa.
+
+Seja gerando relatórios, ou disponibilizando os dados em tempo real, o RECMES vai estar disponível para você.
+
+Exporte os dados para o Excel, e faça análises mais detalhadas, e mais assertivas.
+
+Gere relatórios, e envie para os seus clientes, e para os seus fornecedores.
+
+
+
+---
 ## Link para o RECMES
 
 [RECMES](https://recautomacao.com.br/recmes.html)
