@@ -1,6 +1,6 @@
 # RECMES
 
-![RECMES]('./img/recBranco.png')
+![RECMES](./img/recBranco.png)
 
 ---
 ## Introdução
